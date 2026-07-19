@@ -22,7 +22,8 @@
     "Android/data/com.YoStarEN.Arknights/files/Bundles/audio/sound_beta_2/voice_custom/",
     "Android/data/com.YoStarEN.Arknights/files/Bundles/arts/ui/homebackground/wrapper/",
     "Android/data/com.YoStarEN.Arknights/files/Bundles/battle/prefabs/",
-    "Android/data/com.YoStarEN.Arknights/files/Bundles/audio/sound_beta_2/music/rogue_2"
+    "Android/data/com.YoStarEN.Arknights/files/Bundles/audio/sound_beta_2/music/rogue_2",
+    "Android/data/com.YoStarEN.Arknights/files/Bundles/avg/images/"
   ],
   "gameName": "明日方舟",
   "gamePath": "Android/data/com.YoStarEN.Arknights/",
@@ -48,7 +49,8 @@
     "方言语音",
     "主页背景",
     "token修改",
-    "水月肉鸽背景音乐"
+    "水月肉鸽背景音乐",
+    "肉鸽cg新版"
   ],
   "packageName": "com.YoStarEN.Arknights",
   "serviceName": "Intenational（or Japen） Server-Ver.2.6",

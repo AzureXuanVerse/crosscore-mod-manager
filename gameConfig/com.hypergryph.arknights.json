@@ -26,7 +26,8 @@
     "Android/data/com.hypergryph.arknights/files/Bundles/audio/sound_beta_2/voice_custom/",
     "Android/data/com.hypergryph.arknights/files/Bundles/arts/ui/homebackground/wrapper/",
     "Android/data/com.hypergryph.arknights/files/Bundles/battle/prefabs/",
-    "Android/data/com.hypergryph.arknights/files/Bundles/audio/sound_beta_2/music/rogue_2"
+    "Android/data/com.hypergryph.arknights/files/Bundles/audio/sound_beta_2/music/rogue_2",
+    "Android/data/com.hypergryph.arknights/files/Bundles/avg/images/"
   ],
   "modType": [
     "普通立绘",
@@ -48,7 +49,8 @@
     "方言语音",
     "主页背景",
     "token修改",
-    "水月肉鸽背景音乐"
+    "水月肉鸽背景音乐",
+    "肉鸽cg新版"
   ],
   "modSavePath": "",
   "isGameFileRepeat": true,
